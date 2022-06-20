@@ -71,5 +71,5 @@ userController.updateProfileImage = async (req, res, next) => {
   }
 };
 
-// Export budget controller
+// Export user controller
 module.exports = userController;
